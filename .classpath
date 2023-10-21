@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/swingx.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-bean.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-ws-2008_11_16.jar"/>
+	<classpathentry kind="lib" path="lib/postgis_1.4.0SVN.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-8.3-604.jdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/jts-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/jogl_awt.dll"/>
+	<classpathentry kind="lib" path="lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/jogl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

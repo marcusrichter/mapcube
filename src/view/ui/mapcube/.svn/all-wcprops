@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mrRepo/!svn/ver/202/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube
+END
+FloatArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/FloatArrayList.java
+END
+Point3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/Point3D.java
+END
+SignatureDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/SignatureDrawer.java
+END
+CubeSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mrRepo/!svn/ver/275/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/CubeSurface.java
+END
+MapCubeTextureProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrRepo/!svn/ver/275/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/MapCubeTextureProvider.java
+END
+FontDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/FontDrawer.java
+END
+MapCubePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mrRepo/!svn/ver/275/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/MapCubePanel.java
+END
+TesselCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/TesselCallback.java
+END
+DisplayFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mrRepo/!svn/ver/275/trunk/marcusrichter/Finale_Abgabe/quellcode/src/view/ui/mapcube/DisplayFunctions.java
+END

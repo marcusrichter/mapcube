@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/controller/usecase
+END
+IObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/controller/usecase/IObserver.java
+END
+IUsecase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/controller/usecase/IUsecase.java
+END
+UsecaseLocalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mrRepo/!svn/ver/275/trunk/marcusrichter/Finale_Abgabe/quellcode/src/controller/usecase/UsecaseLocalization.java
+END
+UsecaseNavigation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mrRepo/!svn/ver/295/trunk/marcusrichter/Finale_Abgabe/quellcode/src/controller/usecase/UsecaseNavigation.java
+END
+UsecaseFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/controller/usecase/UsecaseFacade.java
+END

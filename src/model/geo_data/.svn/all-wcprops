@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/model/geo_data
+END
+GeoObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mrRepo/!svn/ver/275/trunk/marcusrichter/Finale_Abgabe/quellcode/src/model/geo_data/GeoObject.java
+END
+AbstractSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/model/geo_data/AbstractSignature.java
+END
+Signature2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/model/geo_data/Signature2D.java
+END
+Signature3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mrRepo/!svn/ver/178/trunk/marcusrichter/Finale_Abgabe/quellcode/src/model/geo_data/Signature3D.java
+END
